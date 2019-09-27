@@ -1,0 +1,3 @@
+﻿  Gambler.cpp
+C:\Users\Se16005480\Desktop\+ Ulster\COM326\Labs\Week 1\COM326W1S2\Gamblers Ruin\Gambler.cpp(96,16): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+  Gamblers Ruin.vcxproj -> C:\Users\Se16005480\Desktop\+ Ulster\COM326\Labs\Week 1\COM326W1S2\x64\Debug\Gamblers Ruin.exe
